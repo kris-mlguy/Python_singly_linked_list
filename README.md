@@ -3,7 +3,7 @@
 -> Singly Linked List (SLL) is a collection of nodes connected to each other  
 -> Each node will have a data field and an address field which contains the reference to next node  
 -> The SLL is implemented as a class that contains methods to push data to its beginning and display the data  
--> 2 source code files to create a linked list and reverse it are added separately  
+-> 3 source code files to create a linked list, reverse and sort it are added separately  
 
 Executing instructions:   
 1) Fork the repository  
@@ -13,6 +13,6 @@ Executing instructions:
 5) Execute using this command:  
 python create_sll.py  
 python reverse_sll.py   
-
+python sort_sll.py
 
 
